@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/greenCreative/static/js/app.dc9c40b3.chunk.js",
+    "app.js.map": "/greenCreative/static/js/app.dc9c40b3.chunk.js.map",
+    "runtime~app.js": "/greenCreative/static/js/runtime~app.2cd07434.js",
+    "runtime~app.js.map": "/greenCreative/static/js/runtime~app.2cd07434.js.map",
+    "static/js/2.a569078d.chunk.js": "/greenCreative/static/js/2.a569078d.chunk.js",
+    "static/js/2.a569078d.chunk.js.map": "/greenCreative/static/js/2.a569078d.chunk.js.map",
+    "favicon-16.png": "/greenCreative/favicon-16.png",
+    "favicon-32.png": "/greenCreative/favicon-32.png",
+    "favicon.ico": "/greenCreative/favicon.ico",
+    "index.html": "/greenCreative/index.html",
+    "manifest.json": "/greenCreative/manifest.json",
+    "serve.json": "/greenCreative/serve.json",
+    "static/js/2.a569078d.chunk.js.LICENSE.txt": "/greenCreative/static/js/2.a569078d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.2cd07434.js",
+    "static/js/2.a569078d.chunk.js",
+    "static/js/app.dc9c40b3.chunk.js"
+  ]
+}
